@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EpiGardenia
 - 👀 I have been worked as software developer since 2007.  Language includes C, C++, C#, Python.
-- 🌱 Here I upload Swift Projects I have been learning and building in past few months
+- 🌱 Here are some side projects in blockchain and iOS I have learnt/worked with.
 - 📫 You can reach me by twitter or LinkedIn
 
 <!---
